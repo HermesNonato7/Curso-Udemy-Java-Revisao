@@ -8,6 +8,7 @@ public class Variaveis {
         int idade = 38;
 
         System.out.println("Minha idade é: " + (idade  + 3) +" anos");
+        System.out.println("Valor do PI é: " + VALOR_PI);
     }
 
 }

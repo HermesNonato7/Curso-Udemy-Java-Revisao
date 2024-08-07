@@ -10,11 +10,11 @@ public class ExemploVariaveis {
         boolean estaChovendo = true;
         String nome = "João";
 
-        System.out.println(idade);
-        System.out.println(altura);
-        System.out.println(genero);
-        System.out.println(estaChovendo);
-        System.out.println(nome);
+        System.out.println("Idade: " + idade);
+        System.out.println("Altura: " + altura);
+        System.out.println("Gênero: " + genero);
+        System.out.println("Está chovendo? " + estaChovendo);
+        System.out.println("Nome: " + nome);
 
     }
 }

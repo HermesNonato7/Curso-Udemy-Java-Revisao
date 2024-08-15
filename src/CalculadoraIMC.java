@@ -3,10 +3,13 @@ public class CalculadoraIMC {
     public static void main(String[] args) {
         // peso div (altura * altura)
 
-        double peso = 1.80;
-        double altura = 1.75;
+        float peso = 1.80f;
+        float altura = 1.75f;
 
-        System.out.println(peso / (altura * altura));
+        float resultado = peso / (altura * altura);
+
+        System.out.println("O IMC para o peso " + peso +
+                " e altura " + altura + " é " + resultado);
+
     }
-
 }

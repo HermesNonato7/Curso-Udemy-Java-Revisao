@@ -11,7 +11,7 @@ public class ExemploVariaveis {
         System.out.println("Idade: " + idade);
         System.out.println("Altura: " + altura);
         System.out.println("Gênero: " + genero);
-        System.out.println("Está chovendo? " + clienteAtivo);
+        System.out.println("Cliente ativo? " + clienteAtivo);
         System.out.println("Nome: " + nome);
         System.out.println("CPF: " + cpf);
 

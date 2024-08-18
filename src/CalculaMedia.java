@@ -12,7 +12,14 @@ public class CalculaMedia {
         double nota3 = leitor.nextDouble();
 
         double media = (nota1 + nota2 + nota3) / 3;
-        System.out.println("A media final é: " + media);
+
+        System.out.println("A media do uno é: " + media);
+
+        if (media >= 6) {
+            System.out.println("Aprovado!");
+        } else {
+            System.out.println("Reprovado!");
+        }
 
         leitor.close();
     }

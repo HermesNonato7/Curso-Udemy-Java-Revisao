@@ -2,7 +2,7 @@ package Exercicios;
 
 import java.util.Scanner;
 
-public class Exercicio_5 {
+public class CelsiusParaFahrenheit {
 
     //5. Escreva um programa Java que converta graus Celsius para Fahrenheit.
     public static void main(String[] args) {

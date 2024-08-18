@@ -2,7 +2,7 @@ package Exercicios;
 
 import java.util.Scanner;
 
-public class Exercicio_4 {
+public class PositivoNegativoZero {
 
     //4. Escreva um programa que determine se um número é positivo, negativo ou zero.
     public static void main(String[] args) {

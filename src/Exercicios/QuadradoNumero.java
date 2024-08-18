@@ -2,7 +2,7 @@ package Exercicios;
 
 import java.util.Scanner;
 
-public class Exercicio_2 {
+public class QuadradoNumero {
     public static void main(String[] args) {
         // 2. Escreva um programa que declare uma variável do tipo double e calcule
         // o quadrado desse número.

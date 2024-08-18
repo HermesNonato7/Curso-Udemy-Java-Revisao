@@ -1,6 +1,6 @@
 package Exercicios;
 
-public class Exercicio_1 {
+public class SomaInteiros {
     public static void main(String[] args) {
 
         //1. Escreva um programa para declarar duas variáveis do tipo inteiro e calcular sua

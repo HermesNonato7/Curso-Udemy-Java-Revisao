@@ -2,7 +2,7 @@ package Exercicios;
 
 import java.util.Scanner;
 
-public class Exercicio_3 {
+public class MediaTresNumeros {
     public static void main(String[] args) {
         // 3. Escreva um programa Java que calcule a média de três números inteiros.
 

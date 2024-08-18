@@ -18,5 +18,7 @@ public class Exercicio_3 {
 
         System.out.println("O resultado da média dos 3 nmumeros é " + resultado);
 
+        sc.close();
+
     }
 }

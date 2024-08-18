@@ -3,7 +3,7 @@ package Exercicios;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Exercicio_6 {
+public class PerimetroAreaRetangulo {
 
     public static void main(String[] args) {
 

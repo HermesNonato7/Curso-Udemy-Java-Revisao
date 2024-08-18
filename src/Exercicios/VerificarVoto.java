@@ -2,7 +2,7 @@ package Exercicios;
 
 import java.util.Scanner;
 
-public class Exercicio_7 {
+public class VerificarVoto {
 
     // 07. Escreva um programa para ler o ano de nascimento de uma pessoa e escrever
     // uma mensagem que diga se ela poderá ou não votar este ano.

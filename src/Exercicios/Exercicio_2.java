@@ -13,6 +13,5 @@ public class Exercicio_2 {
         double perimetroQuadrado = areaQuadrado * 2;
 
         System.out.println("o quadrado desse número é " + perimetroQuadrado);
-
     }
 }

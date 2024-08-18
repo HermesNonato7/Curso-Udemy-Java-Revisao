@@ -9,16 +9,18 @@ public class Exercicio_6 {
 
        // 6. Escreva um programa que calcule o perímetro e a área de um retângulo.
 
-        double base, altura, resultado;
+        double altura, largura;
         Scanner entrada = new Scanner(System.in);
-        System.out.println("Digite o primeiro valor (base): ");
-        base = entrada.nextDouble();
-        System.out.println("Digite o segundo valor (altura): ");
+        System.out.println("Digite a largura do retângulo: ");
+        largura = entrada.nextDouble();
+        System.out.println("Digite a altura do retângulo: ");
         altura = entrada.nextDouble();
 
-        resultado = base*altura;
+        double perimetro = 2 * (largura + altura);
+        double area = largura * altura;
 
-        System.out.println("O perimetro do retangulo é: " + new DecimalFormat(".##").format(resultado));
+        System.out.println("O perímetro dfo retângulo é: " + new DecimalFormat(".##").format(perimetro));
+        System.out.println("A área do retângulo é " + new DecimalFormat(".##").format(area));
 
         entrada.close();
 

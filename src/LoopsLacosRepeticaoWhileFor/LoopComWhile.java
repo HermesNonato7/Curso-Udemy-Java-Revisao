@@ -1,6 +1,5 @@
 package LoopsLacosRepeticaoWhileFor;
 
-import java.security.spec.RSAOtherPrimeInfo;
 import java.util.Scanner;
 
 public class LoopComWhile {
@@ -16,7 +15,7 @@ public class LoopComWhile {
             valor = valor + 1;
         }
 
-        System.out.println("");
         entrada.close();
+
     }
 }

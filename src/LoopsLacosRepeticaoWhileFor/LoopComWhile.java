@@ -8,10 +8,14 @@ public class LoopComWhile {
         Scanner entrada = new Scanner(System.in);
         System.out.println("Digite o valor: ");
         int contador = entrada.nextInt();
-        int valor = 1;
+        int valor = 2;
 
         while (valor <= contador) {
-            System.out.println(valor);
+
+            // Se o MOD for= 0 vai retornar os números pares, se for 1 retorna os núemros imparess
+            if(valor % 2 == 1) {
+                System.out.println(valor);
+            }
             valor = valor + 1;
         }
 

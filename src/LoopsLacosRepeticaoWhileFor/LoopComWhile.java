@@ -16,7 +16,7 @@ public class LoopComWhile {
             if(valor % 2 == 1) {
                 System.out.println(valor);
             }
-            valor = valor + 1;
+            valor++;
         }
 
         entrada.close();

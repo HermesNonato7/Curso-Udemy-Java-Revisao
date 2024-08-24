@@ -1,3 +1,5 @@
+package LoopsLacosRepeticaoWhileFor;
+
 import java.util.Scanner;
 
 public class LoopComFor {

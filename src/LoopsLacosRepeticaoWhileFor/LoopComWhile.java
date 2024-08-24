@@ -11,9 +11,9 @@ public class LoopComWhile {
         int contador = scanner.nextInt();
         int valor = 1;
 
-        while(valor <= contador){
+        while (valor <= contador) {
 
-            if(valor % 2 == 0){
+            if (valor % 2 == 0) {
                 System.out.println(valor);
             }
             valor++;

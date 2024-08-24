@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class MenuDoWhile {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int opcao = 0;
+        int opcao;
 
         do {
             System.out.println("Digite uma opção do menu: ");
@@ -25,8 +25,7 @@ public class MenuDoWhile {
             } else {
                 System.out.println("VocÊ escolheu um sorvete.");
             }
-            //break;
-
+            break;
         } while (opcao != 0);
 
         scanner.close();

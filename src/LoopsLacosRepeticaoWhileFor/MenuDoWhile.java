@@ -1,5 +1,7 @@
 package LoopsLacosRepeticaoWhileFor;
 
+// código de teste e aprendizado incompleto, sem tratamento de exceções
+
 import java.util.Scanner;
 
 public class MenuDoWhile {

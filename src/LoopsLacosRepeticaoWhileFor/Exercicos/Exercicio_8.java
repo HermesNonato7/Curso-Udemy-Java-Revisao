@@ -16,6 +16,5 @@ public class Exercicio_8 {
             System.out.println(numero + " é ímpar");
         }
         scanner.close();
-
     }
 }

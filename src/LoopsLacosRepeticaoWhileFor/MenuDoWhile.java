@@ -25,7 +25,7 @@ public class MenuDoWhile {
             } else {
                 System.out.println("VocÊ escolheu um sorvete.");
             }
-            break;
+            //break;
         } while (opcao != 0);
 
         scanner.close();
